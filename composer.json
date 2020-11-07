@@ -1,5 +1,5 @@
 {
-    "name": "evgeniy-terin/ProductID2InternalBarcodeEAN13",
+    "name": "evgeniy-terin/product-id2internal-barcode-ean13",
     "description": "A short description of what your package does",
     "require": {
         "php": "^7.2"
